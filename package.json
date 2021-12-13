@@ -1,0 +1,14 @@
+{
+  "name": "accordian",
+  "version": "0.0.1",
+  "description": "Hierarchical data is tricky",
+  "main": "lib/accordian.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
